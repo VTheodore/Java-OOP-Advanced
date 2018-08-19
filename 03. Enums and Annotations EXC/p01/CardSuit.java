@@ -1,0 +1,5 @@
+package EnumsAndAnnotationsEXC.p01;
+
+public enum CardSuit {
+    CLUBS, DIAMONDS, HEARTS, SPADES
+}
